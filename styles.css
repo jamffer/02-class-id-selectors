@@ -1,0 +1,18 @@
+.p-class {
+    list-style-type: none;
+    background-color: #ffc0cbc2;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.p-class.cooler {
+    font-size: 24px;
+}
+#second-id {
+    background-color:  hwb(120 56% 7%);
+    font-size: 24px;
+    font-weight: bold;
+}
+#first-id {
+    color: hsl(240, 76%, 53%);
+    font-size: 36px;
+}
